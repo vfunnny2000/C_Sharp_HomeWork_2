@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\bin\Debug\net6.0\Task010_Second_Digit.exe
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\bin\Debug\net6.0\Task010_Second_Digit.deps.json
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\bin\Debug\net6.0\Task010_Second_Digit.runtimeconfig.json
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\bin\Debug\net6.0\Task010_Second_Digit.dll
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\bin\Debug\net6.0\Task010_Second_Digit.pdb
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\obj\Debug\net6.0\Task010_Second_Digit.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\obj\Debug\net6.0\Task010_Second_Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\obj\Debug\net6.0\Task010_Second_Digit.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\obj\Debug\net6.0\Task010_Second_Digit.AssemblyInfo.cs
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\obj\Debug\net6.0\Task010_Second_Digit.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\obj\Debug\net6.0\Task010_Second_Digit.dll
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\obj\Debug\net6.0\refint\Task010_Second_Digit.dll
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\obj\Debug\net6.0\Task010_Second_Digit.pdb
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\obj\Debug\net6.0\Task010_Second_Digit.genruntimeconfig.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task010_Second_Digit\obj\Debug\net6.0\ref\Task010_Second_Digit.dll
