@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\bin\Debug\net6.0\Task013_3rd_Digit_and_out.exe
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\bin\Debug\net6.0\Task013_3rd_Digit_and_out.deps.json
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\bin\Debug\net6.0\Task013_3rd_Digit_and_out.runtimeconfig.json
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\bin\Debug\net6.0\Task013_3rd_Digit_and_out.dll
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\bin\Debug\net6.0\Task013_3rd_Digit_and_out.pdb
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\obj\Debug\net6.0\Task013_3rd_Digit_and_out.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\obj\Debug\net6.0\Task013_3rd_Digit_and_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\obj\Debug\net6.0\Task013_3rd_Digit_and_out.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\obj\Debug\net6.0\Task013_3rd_Digit_and_out.AssemblyInfo.cs
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\obj\Debug\net6.0\Task013_3rd_Digit_and_out.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\obj\Debug\net6.0\Task013_3rd_Digit_and_out.dll
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\obj\Debug\net6.0\refint\Task013_3rd_Digit_and_out.dll
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\obj\Debug\net6.0\Task013_3rd_Digit_and_out.pdb
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\obj\Debug\net6.0\Task013_3rd_Digit_and_out.genruntimeconfig.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task013_3rd_Digit_and_out\obj\Debug\net6.0\ref\Task013_3rd_Digit_and_out.dll

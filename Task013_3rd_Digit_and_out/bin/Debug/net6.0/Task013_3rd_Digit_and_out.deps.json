@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task013_3rd_Digit_and_out/1.0.0": {
+        "runtime": {
+          "Task013_3rd_Digit_and_out.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task013_3rd_Digit_and_out/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
