@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\bin\Debug\net6.0\Task015_Day_off_or_No.exe
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\bin\Debug\net6.0\Task015_Day_off_or_No.deps.json
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\bin\Debug\net6.0\Task015_Day_off_or_No.runtimeconfig.json
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\bin\Debug\net6.0\Task015_Day_off_or_No.dll
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\bin\Debug\net6.0\Task015_Day_off_or_No.pdb
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\obj\Debug\net6.0\Task015_Day_off_or_No.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\obj\Debug\net6.0\Task015_Day_off_or_No.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\obj\Debug\net6.0\Task015_Day_off_or_No.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\obj\Debug\net6.0\Task015_Day_off_or_No.AssemblyInfo.cs
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\obj\Debug\net6.0\Task015_Day_off_or_No.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\obj\Debug\net6.0\Task015_Day_off_or_No.dll
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\obj\Debug\net6.0\refint\Task015_Day_off_or_No.dll
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\obj\Debug\net6.0\Task015_Day_off_or_No.pdb
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\obj\Debug\net6.0\Task015_Day_off_or_No.genruntimeconfig.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_2\Task015_Day_off_or_No\obj\Debug\net6.0\ref\Task015_Day_off_or_No.dll
